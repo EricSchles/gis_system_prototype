@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+gunicorn
+requests
+geopy
+nltk
+usaddress
+lxml
+pandas
